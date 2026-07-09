@@ -2,7 +2,7 @@
   "name": "threadbare-resale",
   "version": "1.0.0",
   "private": true,
-  "description": "Threadbare — circular-fashion resale marketplace. Fable design showcase.",
+  "description": "Threadbare — circular-fashion resale marketplace. Parable design showcase.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

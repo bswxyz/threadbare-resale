@@ -24,7 +24,7 @@ const mono = Space_Mono({
 export const metadata: Metadata = {
   title: 'Threadbare — loved once, wanted twice',
   description:
-    'Threadbare is a circular-fashion resale marketplace: human-verified condition grades, story tags that track where a garment has been, and a wardrobe carbon counter. A Fable design-showcase concept.',
+    'Threadbare is a circular-fashion resale marketplace: human-verified condition grades, story tags that track where a garment has been, and a wardrobe carbon counter. A Parable design-showcase concept.',
   openGraph: {
     title: 'Threadbare — the resale marketplace with receipts',
     description:

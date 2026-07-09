@@ -33,7 +33,7 @@ export default function Footer() {
             is invented.
           </p>
           <p>
-            Designed &amp; built by Fable · <Link href="/guide/">How this was built →</Link>
+            Designed &amp; built by Parable · <Link href="/guide/">How this was built →</Link>
           </p>
         </div>
       </div>

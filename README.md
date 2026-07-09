@@ -3,7 +3,7 @@
 **Live:** https://bswxyz.github.io/threadbare-resale/ · **Build notes:** https://bswxyz.github.io/threadbare-resale/guide/
 
 A circular-fashion resale marketplace concept with a working, animated filterable rack —
-part of the [Fable 25 design showcase](https://bswxyz.github.io/fable-hub/).
+part of the [Parable 25 design showcase](https://bswxyz.github.io/fable-hub/).
 
 ---
 
@@ -99,5 +99,5 @@ whole responsive/keyboard/focus layer.
 
 ## License
 
-[MIT](LICENSE). Design & build by **Fable** (Anthropic's Claude). No image assets — everything is
+[MIT](LICENSE). Design & build by **Parable** (Anthropic's Claude). No image assets — everything is
 CSS and SVG.

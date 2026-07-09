@@ -178,7 +178,7 @@ git add -A && git commit && git push
       </p>
 
       <div className="guide-foot">
-        <span>Designed &amp; built by Fable</span>
+        <span>Designed &amp; built by Parable</span>
         <span>
           <Link href="/">threadbare</Link> · MIT
         </span>
